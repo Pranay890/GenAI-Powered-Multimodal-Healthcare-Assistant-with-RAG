@@ -1,0 +1,6 @@
+drug1,drug2,interaction
+Paracetamol,Ibuprofen,Safe: No major interaction.
+Aspirin,Warfarin,DANGEROUS: High bleeding risk.
+Metformin,Insulin,Monitor: Risk of low blood sugar.
+Ibuprofen,ACE inhibitors,Caution: Reduced kidney function.
+Antibiotics,Antacids,Reduced absorption of antibiotics.

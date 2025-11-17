@@ -1,0 +1,11 @@
+symptom,disease
+fever,Flu
+cough,Flu
+headache,Migraine
+fatigue,Anemia
+chest pain,Heart Disease
+shortness of breath,Asthma
+nausea,Food Poisoning
+vomiting,Food Poisoning
+weight loss,Diabetes
+thirst,Diabetes
